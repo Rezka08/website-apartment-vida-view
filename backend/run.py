@@ -1,3 +1,6 @@
+# untuk menjalankan aplikasi Flask
+# jalankan file ini
+
 from app import create_app
 
 app = create_app()
